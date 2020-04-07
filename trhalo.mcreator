@@ -1,0 +1,38 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Edfczf",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.edfczf.descr": "gegvergr\"crgefger",
+      "advancements.edfczf.title": "Edfczf"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "trhalo",
+    "modName": "Trhalo",
+    "version": "1.0.0",
+    "author": "Bram, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "modElementsPackage": "net.mcreator.trhalo",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
